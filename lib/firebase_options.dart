@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCU6BfEre80LHpO7LkMHi4Ne0nHV0SrEx8',
+    apiKey: 'API KEY',
     appId: '1:825699678021:web:28cb96cc2ce3c43876302c',
     messagingSenderId: '825699678021',
     projectId: 'petcareproject-b6eb5',
