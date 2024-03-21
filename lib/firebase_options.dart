@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCabmQ-fbkOMEXh9xN7veqSD1lEDKeG6ao',
+    apiKey: 'API KEY',
     appId: '1:825699678021:ios:2132f90f4fe09af376302c',
     messagingSenderId: '825699678021',
     projectId: 'petcareproject-b6eb5',
